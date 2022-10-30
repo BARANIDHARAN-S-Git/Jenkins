@@ -1,7 +1,7 @@
 GithubLink:https://github.com/BARANIDHARAN-S-Git/Jenkins
 ---------------------------------------------
 1)Create a new  Asp.Net Mvc File.
-2)Open the Localhost80:80 Jenkins Will Open.
+2)Open the Localhost:8080 Jenkins Will Open.
 3)Create a new Freestyle Project.
 4)In the Git Column Give your Git Repository URL.
 5)And In the Credentials give the necessary details.
