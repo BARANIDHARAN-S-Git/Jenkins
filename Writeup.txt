@@ -1,0 +1,13 @@
+GithubLink:https://github.com/BARANIDHARAN-S-Git/Jenkins
+---------------------------------------------
+1)Create a new  Asp.Net Mvc File.
+2)Open the Localhost80:80 Jenkins Will Open.
+3)Create a new Freestyle Project.
+4)In the Git Column Give your Git Repository URL.
+5)And In the Credentials give the necessary details.
+6)Check the Branch to Build whether it is your correct Branch.
+7)Save It and Built It Once.
+8)Now .sln will be there in your path .Take the .sln path and put it in the add build step place.
+9)Now save it and Build It once.
+10)In the Build Periodically I have given a 2minutes Duration.Every 2minutes It will automatically Build.
+   
